@@ -1,1 +1,2 @@
-:set nu
+set nu
+syntax on

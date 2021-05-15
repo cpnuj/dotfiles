@@ -106,4 +106,4 @@ export LANG=en_US.UTF-8
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
-alias vpnon='sudo sslocal -c /etc/shadowsocks.json -d start && sudo systemctl start privoxy'
+alias vi='vim'
