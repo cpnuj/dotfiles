@@ -1,2 +1,6 @@
+set et
+set ts=2
 set nu
-syntax on
+set hls
+set shiftwidth=2
+set background=dark
